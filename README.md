@@ -1,5 +1,5 @@
 # lossless-music-
-It is an application made to listen to 24bit music for free. 
+It is an application  to listen to 24bit music for free. 
 application features 
 music torrent pulls rss 
 You will be able to download music
